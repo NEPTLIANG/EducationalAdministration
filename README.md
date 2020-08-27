@@ -13,5 +13,3 @@
 **主要开发工具**：Visual Studio, MS SQL Server
 
 实现了数据库增删改查等基本功能，学校课程教的ASP所以只能采用ASP、VS和SQL Server
-
-[github.com/NEPTLIANG/Web/tree/master/EducationalAdministration](https://github.com/NEPTLIANG/Web/tree/master/EducationalAdministration)
